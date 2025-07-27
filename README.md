@@ -4,6 +4,7 @@ A full-stack finance tracking app that helps users add income/expenses, view the
 
 > ⚠️ "Rent is more than 50% of your income!"
 
+I built this application after learning React during summer 2025 to practice full-stack development .
 ---
 
 ### 🔧 Tech Stack
